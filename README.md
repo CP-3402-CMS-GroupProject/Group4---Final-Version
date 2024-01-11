@@ -1,6 +1,6 @@
 # Group4---Final-Version
 Here is link of the live final version:
-
+http://junxiangw5.sg-host.com/
 ## Screenshot of the Final Version
 ![website-part1](https://github.com/CP-3402-CMS-GroupProject/Group4---Final-Version/assets/96897237/40b01900-2f0f-4266-96f1-55e22bb83ef9)
 ![website-part2](https://github.com/CP-3402-CMS-GroupProject/Group4---Final-Version/assets/96897237/23493c5d-7f7e-49b0-86e8-04a043ab94a8)
