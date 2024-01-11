@@ -12,5 +12,7 @@ http://junxiangw5.sg-host.com/
 
 ## Screenshot of the code of the Final Version
 ### Header
+<img width="684" alt="Screenshot 2024-01-11 at 10 35 05 PM" src="https://github.com/CP-3402-CMS-GroupProject/Group4---Final-Version/assets/118160486/f9824979-5aed-4397-8947-0fde045146b0">
+
 ### Index
 ### Footer
