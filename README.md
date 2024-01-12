@@ -16,4 +16,7 @@ http://junxiangw5.sg-host.com/
 <img width="684" alt="Screenshot 2024-01-11 at 10 35 05 PM" src="https://github.com/CP-3402-CMS-GroupProject/Group4---Final-Version/assets/118160486/f9824979-5aed-4397-8947-0fde045146b0">
 
 ### Index
-![Uploading Screenshot 2024-01-12 at 9.37.03 AM.png…]()
+<img width="726" alt="Screenshot 2024-01-12 at 9 37 03 AM" src="https://github.com/CP-3402-CMS-GroupProject/Group4---Final-Version/assets/118160486/a7a0425a-aee1-4a08-8993-1478ab25d42b">
+
+### Footer
+<img width="716" alt="Screenshot 2024-01-12 at 9 38 16 AM" src="https://github.com/CP-3402-CMS-GroupProject/Group4---Final-Version/assets/118160486/b9a1df9d-e989-4ee5-8cc2-728ecde078a3">
